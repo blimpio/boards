@@ -6,6 +6,9 @@ If you're looking for business class hosting and support, contact us: hello@getb
 
 The following instructions will automatically download and provision a virtual machine for you to begin hacking on Blimp Boards with Vagrant.
 
+## Screenshot
+![Blimp Boards Screenshot](http://i.imgur.com/MpRpto7.jpg)
+
 ## Getting Started
 
 1. Install Git: [http://git-scm.com/downloads](http://git-scm.com/downloads) (or [GitHub for Windows](http://windows.github.com/) if you want a GUI)
