@@ -7,7 +7,7 @@ If you're looking for business class hosting and support, contact us: hello@getb
 The following instructions will automatically download and provision a virtual machine for you to begin hacking on Blimp Boards with Vagrant.
 
 ## Screenshot
-![Blimp Boards Screenshot](http://i.imgur.com/MpRpto7.jpg)
+![Blimp Boards Screenshot](http://i.imgur.com/ZpzUl3r.jpg)
 
 ## Getting Started
 
