@@ -13,7 +13,7 @@ The following instructions will automatically download and provision a virtual m
 5. Clone the project: `git clone https://github.com/getblimp/boards-install.git`
 6. Enter the project directory: `cd boards-install`
 
-## Using Vagrant
+## Using Vagrant for development
 
 When you're ready to start working, boot the VM:
 
@@ -36,6 +36,8 @@ vagrant halt
 ```
 
 
+## TO-DO
 
+- Dockerize port for production deployments
 
 
