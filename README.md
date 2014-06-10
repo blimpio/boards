@@ -1,6 +1,8 @@
 # Blimp Boards Install Guide
 
-Install instructions and configuration files for Blimp Boards
+Install instructions and configuration files for Blimp Boards.
+
+If you're looking for business class hosting and support, contact us: hello@getblimp.com.
 
 The following instructions will automatically download and provision a virtual machine for you to begin hacking on Blimp Boards with Vagrant.
 
