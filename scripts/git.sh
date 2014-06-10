@@ -1,0 +1,26 @@
+#!/bin/bash
+
+git config --global user.name "Vagrant Box"
+git config --global user.email "vagrantbox@example.com"
+git config --global alias.st "status"
+git config --global alias.ci "commit"
+git config --global alias.co "checkout"
+git config --global alias.br "branch"
+git config --global alias.ls "branch"
+git config --global alias.s  "status"
+git config --global alias.a  "add"
+git config --global alias.b  "branch"
+git config --global alias.d  "diff"
+git config --global alias.dc "diff --cached"
+git config --global alias.v  "show"
+git config --global alias.l  "log"
+git config --global alias.ll "log"
+git config --global alias.cp "cherry-pick"
+git config --global alias.c  "checkout"
+git config --global alias.cc "commit"
+git config --global alias.ri "rebase -i HEAD~10"
+git config --global alias.sh "!git-sh"
+git config --global alias.tree "log --graph --decorate --pretty=oneline --abbrev-commit"
+git config --global format.pretty "%C(yellow)%h%Creset -%C(red)%d%Creset %s %Cgreen(%ar) %C(bold blue)<%an>%Creset"
+sudo cp /root/.gitconfig /home/vagrant/.gitconfig
+sudo chown vagrant:vagrant /home/vagrant/.gitconfig

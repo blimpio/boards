@@ -1,0 +1,7 @@
+server {
+    listen 8080 default;
+  root /home/vagrant/apps/boards-web/public;
+
+  location / {
+  }
+}
