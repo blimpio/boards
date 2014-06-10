@@ -10,8 +10,8 @@ The following instructions will automatically download and provision a virtual m
 2. Install VirtualBox: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Download]s)
 3. Install Vagrant: [http://www.vagrantup.com](http://www.vagrantup.com) (We require Vagrant 1.1.2+ or later)
 4. Open a terminal
-5. Clone the project: `git clone https://github.com/getblimp/boards-install.git`
-6. Enter the project directory: `cd boards-install`
+5. Clone the project: `git clone https://github.com/getblimp/boards.git`
+6. Enter the project directory: `cd boards`
 
 ## Using Vagrant for development
 
