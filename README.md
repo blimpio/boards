@@ -2,14 +2,21 @@
 
 Install instructions and configuration files for Blimp Boards.
 
-If you're looking for business class hosting and support, contact us: hello@getblimp.com.
+This project sets up all requirements to install and run:
+- https://github.com/GetBlimp/boards-backend
+- https://github.com/GetBlimp/boards-web
+- https://github.com/GetBlimp/boards-sockets
 
-The following instructions will automatically download and provision a virtual machine for you to begin hacking on Blimp Boards with Vagrant.
+Blimp Boards is also powered by [FilePreviews.io](http://filepreviews.io). While completely optional, if you'd like rich file previews generated for uploaded files, you're going to need to [sign up](https://api.filepreviews.io/auth/signup/) for an account to hook up with your install.
+
+If you're looking for business class hosting and support, contact us: hello@getblimp.com.
 
 ## Screenshot
 ![Blimp Boards Screenshot](http://i.imgur.com/ZpzUl3r.jpg)
 
 ## Getting Started
+
+The following instructions will automatically download and provision a virtual machine for you to begin hacking on Blimp Boards with Vagrant.
 
 1. Install Git: [http://git-scm.com/downloads](http://git-scm.com/downloads) (or [GitHub for Windows](http://windows.github.com/) if you want a GUI)
 2. Install VirtualBox: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Download]s)
