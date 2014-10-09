@@ -39,3 +39,6 @@ bash /vagrant/scripts/boards-backend/install.sh
 
 # Install boards-web
 bash /vagrant/scripts/boards-web/install.sh
+
+# Fix permissions in apps folder
+chown -R vagrant:vagrant apps/
