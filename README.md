@@ -41,6 +41,8 @@ Once the machine has booted up, you can shell into it by typing:
 vagrant ssh
 ```
 
+Browse http://localhost:8888/ to load the application.
+
 ###	Shutting down the VM
 
 ```
